@@ -1,0 +1,8 @@
+{
+  "name": "cexcalidraw",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./excalidraw-app/build",
+    "not_found_handling": "single-page-application"
+  }
+}
